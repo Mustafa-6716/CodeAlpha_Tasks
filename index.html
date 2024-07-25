@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Age Calculator</h1>
+        <p>Please enter your date of birth to find out your age.</p>
+        <form id="ageForm">
+            <div class="form-group">
+                <label for="dob">Date of Birth:</label>
+                <input type="date" id="dob" name="dob" required>
+            </div>
+            <button type="submit" class="btn">Calculate Age</button>
+        </form>
+        <div class="result" id="result"></div>
+        <div class="additional-info">
+            <h2>Additional Information</h2>
+            <p>This calculator helps you determine your exact age based on the date you provide. It's a handy tool for various purposes such as filling out forms or just satisfying your curiosity!</p>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
