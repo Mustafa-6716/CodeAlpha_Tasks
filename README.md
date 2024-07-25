@@ -1,7 +1,8 @@
 # CodeAlpha_Tasks
 This repository contains the tasks completed during my three-month virtual web development internship at CodeAlpha.
 <br>
-Skills Utilized
+<br>
+<b>Skills Utilized</b>
 <br>
 HTML5
 <br>
