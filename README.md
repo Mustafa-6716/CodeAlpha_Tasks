@@ -1,2 +1,7 @@
 # CodeAlpha_Tasks
-This my Repository to store the projects of My web development internship at codeAlpha
+This repository contains the tasks completed during my three-month virtual web development internship at CodeAlpha.
+
+Skills Utilized
+HTML5
+CSS
+JavaScript
