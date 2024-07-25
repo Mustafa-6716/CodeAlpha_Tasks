@@ -4,6 +4,7 @@ This repository contains the tasks completed during my three-month virtual web d
 <br>
 <b>Skills Utilized</b>
 <br>
+<br>
 HTML5
 <br>
 CSS
